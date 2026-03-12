@@ -1,0 +1,17 @@
+# CRYPTSK NetAudit Dependencies
+# Copyright (c) 2025 CRYPTSK Pvt Ltd
+# Website: https://cryptsk.com
+# Contact: info@cryptsk.com
+
+# Core
+fastapi>=0.109.0
+uvicorn>=0.27.0
+typer>=0.9.0
+rich>=13.7.0
+pydantic>=2.5.0
+
+# Type hints and validation
+typing-extensions>=4.9.0
+
+# Optional: For enhanced CLI
+colorama>=0.4.6
